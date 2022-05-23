@@ -1,2 +1,2 @@
-# potential-octo-engine
+# laba2
 laba po AID
