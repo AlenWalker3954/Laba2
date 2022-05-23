@@ -1,2 +1,2 @@
-# notmain readme
+laba2
 laba po AID
